@@ -1,2 +1,2 @@
 # chocolate-shop
-Андрей Громанчук
+Hromanchuk Andrii
