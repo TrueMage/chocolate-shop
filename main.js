@@ -12,7 +12,7 @@ function getResult(){
         wraps++;
     }
 
-    for(; wraps >= priceFreeChocolate; wraps-=priceFreeChocolate){
+    for(; wraps >= priceFreeChocolate; wraps-=priceFreeChocolate, wraps++){
         chocolate++;
     }
 
